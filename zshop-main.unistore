@@ -1,0 +1,63 @@
+{
+   "storeInfo":
+   {
+      "title":"zShop",
+      "author":"zShop Team",
+      "description":"A growing assortment of custom injects for the Nintendo 3DS family of systems.",
+      "file":"zshop-main.unistore",
+      "url":"https://github.com/JoshGamingHQ/zShop-unistore/raw/main/zshop-main.unistore",
+      "sheet":"zShop.t3x",
+      "sheetURL":"https://github.com/JoshGamingHQ/zShop-unistore/blob/main/zShop.t3x?raw=true",
+      "bg_index":0,
+      "bg_sheet":0,
+      "version":3,
+      "revision":1
+   },
+   
+   "storeContent":[
+      {
+         "info":{
+            "title":"Universal-Updater",
+            "author":"Universal-Team",
+            "version":"v2.5.1",
+            "category":[
+               "utility"
+            ],
+            "console":[
+               "3DS"
+            ],
+            "description":"A multiapp, JSON script-based updater for Nintendo 3DS",
+            "license":"gpl-3.0",
+            "icon_index":0,
+            "sheet_index":0,
+            "last_updated":"2020-07-02 at 14:03 (UTC)"
+         },
+         "Download Universal-Updater.3dsx":[
+            {
+               "file":"https://github.com/Universal-Team/Universal-Updater/releases/download/v2.5.1/Universal-Updater.3dsx",
+               "message":"Downloading Universal-Updater.3dsx...",
+               "output":"sdmc:/3ds/Universal-Updater.3dsx",
+               "type":"downloadFile"
+            }
+         ],
+         "Download Universal-Updater.cia":[
+            {
+               "file":"https://github.com/Universal-Team/Universal-Updater/releases/download/v2.5.1/Universal-Updater.cia",
+               "message":"Downloading Universal-Updater.cia...",
+               "output":"sdmc:/Universal-Updater.cia",
+               "type":"downloadFile"
+            },
+            {
+               "file":"/Universal-Updater.cia",
+               "message":"Installing Universal-Updater.cia...",
+               "type":"installCia"
+            },
+            {
+               "file":"sdmc:/Universal-Updater.cia",
+               "message":"Deleting Universal-Updater.cia.",
+               "type":"deleteFile"
+            }
+         ]
+      }
+   ]
+}
