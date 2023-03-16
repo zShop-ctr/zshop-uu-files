@@ -11,7 +11,7 @@
       "bg_index":0,
       "bg_sheet":0,
       "version":3,
-      "revision":1
+      "revision":2
    },
    
    "storeContent":[
@@ -26,7 +26,7 @@
             "console":[
                "NES"
             ],
-            "description":"One day, the Mushroom Kingdom was invaded by the Turtle Tribe, whose king was capable of using powerful magic. This magic was used to transform all the Mushroom People into inanimate objects such as rocks, bricks, and even horsetails, thus spelling the kingdom's downfall. Only Princess Toadstool can undo the spell and restore her people to life, but she is being held captive by King Koopa himself. Mario hears of the princess's plight, and sets out on a quest through 32 stages to topple the Turtle Tribe and save the once-peaceful kingdom.",
+            "description":"One day, the Mushroom Kingdom was invaded by the Turtle Tribe, whose king was capable of using powerful magic. This magic was used to transform all the Mushroom People into inanimate objects. Only Princess Toadstool can undo the spell and restore her people to life, but she is being held captive by King Koopa himself. Mario hears of the princess's plight, and sets out on a quest to topple the Turtle Tribe and save the once-peaceful kingdom.",
             "license":"None",
             "icon_index":0,
             "sheet_index":0,
