@@ -17,20 +17,20 @@
    "storeContent":[
       {
          "info":{
-            "title":"Universal-Updater",
-            "author":"Universal-Team",
-            "version":"v2.5.1",
+            "title":"Super Mario Bros.",
+            "author":"Nintendo",
+            "version":"v1.0",
             "category":[
-               "utility"
+               "games"
             ],
             "console":[
-               "3DS"
+               "NES"
             ],
-            "description":"A multiapp, JSON script-based updater for Nintendo 3DS",
-            "license":"gpl-3.0",
+            "description":"One day, the Mushroom Kingdom was invaded by the Turtle Tribe, whose king was capable of using powerful magic. This magic was used to transform all the Mushroom People into inanimate objects such as rocks, bricks, and even horsetails, thus spelling the kingdom's downfall. Only Princess Toadstool can undo the spell and restore her people to life, but she is being held captive by King Koopa himself. Mario hears of the princess's plight, and sets out on a quest through 32 stages to topple the Turtle Tribe and save the once-peaceful kingdom.",
+            "license":"None",
             "icon_index":0,
             "sheet_index":0,
-            "last_updated":"2020-07-02 at 14:03 (UTC)"
+            "last_updated":"Never"
          },
          "Download Universal-Updater.3dsx":[
             {
